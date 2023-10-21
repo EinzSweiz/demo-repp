@@ -25,4 +25,5 @@ def nadir(birinci, ikinci, ucuncu, x, y, t, z):
 
 main()
 
+print("Today is a nice day!")
     
