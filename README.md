@@ -9,3 +9,8 @@ Salam, men deyisdim
 ### Dayanmadan
 
 Bugun bazarliq elemeye getmek lazimdir!
+
+### Baki
+
+
+Salam baki
